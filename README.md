@@ -13,6 +13,7 @@ This project is an end-to-end financial analytics system that extracts data from
   - Isolation Forest (anomaly detection)
   - KMeans (risk clustering)
 - AI-generated financial reports
+- AI chatbot for financial insights
 - FastAPI backend
 - Interactive Power BI dashboard
 
