@@ -867,3 +867,5 @@ ngrok.set_auth_token("3BOALc8eVu0QECZz4X8buVU1TAT_6vstcicREXTS6qUaS8iYS")
 url = ngrok.connect(8000)
 print(url)
 
+#   l o g g i n g   a d d e d  
+ 
